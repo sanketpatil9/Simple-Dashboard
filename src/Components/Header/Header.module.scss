@@ -1,0 +1,28 @@
+
+// .rightSidewidth {
+//     margin-left: 300px;
+//     height: 60px;
+//     background-color: violet;
+//     float: left;
+//     width: 80%;
+    
+// }
+
+
+
+.rightSidewidth {
+    position: relative; 
+    height: 60px;
+    background-color: #cdcdcd;
+    // background-color: red;
+    width: 80%;
+    margin-left: 300px;
+}
+
+.rightSidewidth img {
+    position: absolute; 
+    top: 0;
+    right: 0;
+    height: 100%; 
+    width: auto; 
+}

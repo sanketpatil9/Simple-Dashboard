@@ -1,0 +1,126 @@
+// .studentListContainer {
+//     // height: 600px; /* Adjust based on header and footer height */
+//     margin-left: 250px; /* Adjust based on your navbar width */
+//     padding-top: 10px; /* Adjust based on header height */
+//     padding-bottom: 60px; /* Adjust based on footer height */
+//     background-color: rgb(205, 172, 172);
+//     height: 500px;
+//     // width: 100%;
+// }
+
+// // input {
+// //     text-align: start;
+// // }
+
+
+// .itsPosition {
+//     margin-left: 300px;
+// }
+
+// .itsPositionone {
+//     text-align: start;
+//     margin-left: 100px;
+//     // width: 100%;
+// }
+
+// input {
+//     width: 50%;
+//     height: 40px;
+// }
+
+
+
+/* StudentView.module.scss */
+// .itsPosition {
+//     margin-bottom: 20px;
+//     margin-left: 300px;
+// }
+
+// .studentListContainer {
+//     padding: 20px;
+//     background-color: #2f6396;
+//     width: 50%;
+//     margin-left: 300px;
+//     height: 400px;
+    
+// }
+
+// .lofoAdjust {
+//     height: 200px;
+//     width: 100%;
+//     float: left;
+// }
+
+
+
+
+
+
+// /* StudentView.module.scss */
+// .itsPosition {
+//     margin-left: 100px; /* Adjust this value to avoid overlapping with the navbar */
+//     margin-bottom: 20px;
+// }
+
+// .studentListContainer {
+//     padding: 20px;
+//     background-color: #f8f9fa;
+// }
+
+// .logoAdjust {
+//     max-width: 100px; /* Adjust the size as needed */
+//     height: auto;
+// }
+
+
+
+
+
+
+
+
+
+/* StudentView.module.scss */
+// .itsPosition {
+//     margin-left: 200px; /* Adjust this value to avoid overlapping with the navbar */
+//     margin-bottom: 20px;
+// }
+
+// .studentListContainer {
+//     padding: 20px;
+//     background-color: #f8f9fa;
+// }
+
+// .logoAdjust {
+//     width: 250px;  /* Adjust width as needed */
+//     height: 250px; /* Adjust height as needed */
+//     object-fit: cover; /* Ensures the image is properly fitted within the specified dimensions */
+// }
+
+
+
+/* StudentView.module.scss */
+.itsPosition {
+    margin-left: 300px; /* Adjust this value to avoid overlapping with the navbar */
+    // // margin-bottom: 20px;
+    // background-color: red;
+}
+
+.studentListContainer {
+    padding: 20px;
+    background-color: #f8f9fa;
+    // background-color: red;
+}
+
+.logoAdjust {
+    width: 200px;  /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+  
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px; /* Adjust spacing between image and details */
+}

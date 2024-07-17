@@ -1,0 +1,24 @@
+.container {
+    margin-left: 300px; /* Increased margin based on the width of our navbar */
+    margin-top: 20px;
+    padding-right: 20px; 
+    display: flex;
+    // // float: left;
+    flex-direction: column;
+    align-items: center;
+    // background-color: red;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+    padding-left: 20px; /* Adjust if necessary */
+}
+
+.formWrapper {
+    margin-top: 20px;
+    width: 60%; /* Adjust width as needed */
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+}
